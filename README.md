@@ -14,7 +14,7 @@
 
 you must have mongodb service running on your machine (If on a port other than 27017, change it in `nodejs-app/config/development.env`)
 
-## Screenshots
+## Screenshots (Don't judge I was hungry xD)
 
 <img src="https://imagebin.ca/5FezNbnWRUrZ/Screenshot_2020-03-15-00-02-35-624_com.areeba.jpg" width="400">
 <img src="https://imagebin.ca/5FezSbWBHOQb/Screenshot_2020-03-15-00-02-26-231_com.areeba.jpg" width="400">
