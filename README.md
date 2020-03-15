@@ -16,10 +16,10 @@ you must have mongodb service running on your machine (If on a port other than 2
 
 ## Screenshots
 
-<img src="https://imagebin.ca/5FezSbWBHOQb/Screenshot_2020-03-15-00-02-26-231_com.areeba.jpg" width="500">
-<img src="https://imagebin.ca/5FezNbnWRUrZ/Screenshot_2020-03-15-00-02-35-624_com.areeba.jpg" width="500">
-<img src="https://imagebin.ca/5FezNbnWRUrZ/Screenshot_2020-03-15-00-02-35-624_com.areeba.jpg" width="500">
-<img src="hhttps://imagebin.ca/5FezDcMClnzd/Screenshot_2020-03-15-01-07-21-281_com.areeba.jpg" width="500">
-<img src="https://imagebin.ca/5Fez7gZ31kmP/Screenshot_2020-03-15-02-17-14-080_com.areeba.jpg" width="500">
-<img src="https://imagebin.ca/5Fez1kltHqMD/Screenshot_2020-03-15-03-09-15-313_com.areeba.jpg" width="500">
-<img src="https://imagebin.ca/5FeyuZY4Km5Z/Screenshot_2020-03-15-03-09-34-509_com.areeba.jpg" width="500">
+<img src="https://imagebin.ca/5FezSbWBHOQb/Screenshot_2020-03-15-00-02-26-231_com.areeba.jpg" width="400">
+<img src="https://imagebin.ca/5FezNbnWRUrZ/Screenshot_2020-03-15-00-02-35-624_com.areeba.jpg" width="400">
+<img src="https://imagebin.ca/5FezNbnWRUrZ/Screenshot_2020-03-15-00-02-35-624_com.areeba.jpg" width="400">
+<img src="hhttps://imagebin.ca/5FezDcMClnzd/Screenshot_2020-03-15-01-07-21-281_com.areeba.jpg" width="400">
+<img src="https://imagebin.ca/5Fez7gZ31kmP/Screenshot_2020-03-15-02-17-14-080_com.areeba.jpg" width="400">
+<img src="https://imagebin.ca/5Fez1kltHqMD/Screenshot_2020-03-15-03-09-15-313_com.areeba.jpg" width="400">
+<img src="https://imagebin.ca/5FeyuZY4Km5Z/Screenshot_2020-03-15-03-09-34-509_com.areeba.jpg" width="400">
