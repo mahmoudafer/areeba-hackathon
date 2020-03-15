@@ -1,4 +1,4 @@
-# areeba-hackathon
+# areeba-hackathon (1st Challenge)
 
 **Instructions**:
 
