@@ -16,8 +16,6 @@ you must have mongodb service running on your machine (If on a port other than 2
 
 Note: only tested on android using a linux machine.
 
-Oh and, I'm interested in an internship as a senior uni student :p
-
 ## Screenshots
 
 <img src="screenshots/1.jpeg" width="400">
