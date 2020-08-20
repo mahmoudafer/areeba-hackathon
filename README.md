@@ -18,7 +18,7 @@ Note: only tested on android using a linux machine.
 
 Oh and, I'm interested in an internship as a senior uni student :p
 
-## Screenshots (Don't judge I was hungry xD)
+## Screenshots
 
 <img src="screenshots/1.jpeg" width="400">
 <img src="screenshots/2.jpeg" width="400">
