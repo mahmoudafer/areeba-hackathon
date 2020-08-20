@@ -21,10 +21,10 @@ Oh and, I'm interested in an internship as a senior uni student :p
 ## Screenshots (Don't judge I was hungry xD)
 
 <img src="screenshots/1.jpeg" width="400">
-<img src="https://imagebin.ca/5FezSbWBHOQb/Screenshot_2020-03-15-00-02-26-231_com.areeba.jpg" width="400">
-<img src="https://imagebin.ca/5Ff4qMhoNMDq/Screenshot_2020-03-15-01-07-21-281_com.areeba.jpg" width="400">
-<img src="https://imagebin.ca/5FezIIihIyPR/Screenshot_2020-03-15-00-42-58-157_com.areeba.jpg" width="400">
-<img src="hhttps://imagebin.ca/5FezDcMClnzd/Screenshot_2020-03-15-01-07-21-281_com.areeba.jpg" width="400">
-<img src="https://imagebin.ca/5Fez7gZ31kmP/Screenshot_2020-03-15-02-17-14-080_com.areeba.jpg" width="400">
-<img src="https://imagebin.ca/5Fez1kltHqMD/Screenshot_2020-03-15-03-09-15-313_com.areeba.jpg" width="400">
-<img src="https://imagebin.ca/5FeyuZY4Km5Z/Screenshot_2020-03-15-03-09-34-509_com.areeba.jpg" width="400">
+<img src="screenshots/2.jpeg" width="400">
+<img src="screenshots/3.jpeg" width="400">
+<img src="screenshots/4.jpeg" width="400">
+<img src="screenshots/5.jpeg" width="400">
+<img src="screenshots/6.jpeg" width="400">
+<img src="screenshots/7.jpeg" width="400">
+
